@@ -1,6 +1,6 @@
 # Unveiling Forkhead-mediated regulation of yeast cell cycle and metabolic networks
 
-This is the code repositoryies for the computational analyses featured in:
+This is the code repository for the computational analyses featured in:
 
 Matteo Barberis, Thierry D.G.A. Mondeel, Unveiling Forkhead-mediated regulation of yeast cell cycle and metabolic networks, Computational and Structural Biotechnology Journal, 2022. 
 
